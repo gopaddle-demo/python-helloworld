@@ -1,2 +1,2 @@
 #!/bin/sh
-curl http://localhost:8080/heartBeat
+curl http://localhost:5000/heartBeat

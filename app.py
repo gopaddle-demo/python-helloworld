@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def main():
-    return "welcome to kube4All!"
+    return "Hello World!"
 
 @app.route('/heartBeat')
 def hello():

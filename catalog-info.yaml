@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-helloworld
+  annotations:
+    github.com/project-slug: gopaddle-demo/python-helloworld
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
